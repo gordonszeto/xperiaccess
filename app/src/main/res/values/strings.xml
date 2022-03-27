@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">XPERIAccess</string>
+    <string name="accessibility_service_description">Run features and dispatch button action when needed.</string>
+</resources>
